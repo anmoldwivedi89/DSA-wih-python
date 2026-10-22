@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0125-valid-palindrome/) | Easy |
+| [0290-word-pattern](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0290-word-pattern/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Sorting
