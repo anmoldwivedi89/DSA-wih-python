@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/anmoldwivedi89/DSA-wih-python/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
